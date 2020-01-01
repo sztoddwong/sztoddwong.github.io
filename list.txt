@@ -256,32 +256,11 @@ HOT星顏,p2p://fccsovh.pvbox.live:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 恐怖丧尸鬼片灾难-流畅,http://tx2play1.douyucdn.cn/live/263824rvckg2QDjU_550p.flv?uuid=
 恐怖丧尸鬼片灾难-高清,http://tx2play1.douyucdn.cn/live/263824rvckg2QDjU_1200p.flv?uuid=
 RUNNING MAN,http://tx2play1.douyucdn.cn/live/131977rqtTiLQh1o.flv?uuid=
-仪陇电影,https://dlhls-cdn-mp.zhanqi.tv/zqlive/290337_OIjmu.m3u8
-终南山影视,https://dlhls-cdn-mp.zhanqi.tv/zqlive/288547_qSJ5f.m3u8
-周口影视,https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
-周口电视剧,https://dlhls-cdn-mp.zhanqi.tv/zqlive/194839_XtiBg.m3u8
-淮阳影视,https://dlhls-cdn-mp.zhanqi.tv/zqlive/199301_y2bWG.m3u8 
-齐影视好莱坞频道,https://dlhls-cdn-mp.zhanqi.tv/zqlive/295692_5L4Eq.m3u8
-齐影视卡式台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8 
-齐影视功夫台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8               
-齐影视港剧台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
-齐影视电影台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8                  
-齐影视音乐台.https://dlhls-cdn-mp.zhanqi.tv/zqlive/296268_hodBy.m3u8                
-齐影视港台武侠,https://dlhls-cdn-mp.zhanqi.tv/zqlive/296155_gui3i.m3u8                   
-齐影视综合频道,http://dlhls-cdn-mp.zhanqi.tv/zqlive/294241_KlRjy.m3u8
-齐影视电视剧,http://dlhls-cdn-mp.zhanqi.tv/zqlive/295803_fLcJv.m3
-湖南电信潇湘电影,http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8#tvbus://1owRDPHTR98qzU2GM3aUG4cco4mYZHm5byevkH66ucfeSohpyL
-卫视卡式台,http://www.chengbo.org/proxy/tg.m3u8 
-周口电影频道,https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
-周口电视剧频道,https://dlhls-cdn-mp.zhanqi.tv/zqlive/194839_XtiBg.m3u8
 菊花台,http://46.29.165.95:8081/stream/Runight/chunks.m3u8
 松视2台,vjms://23.237.33.155:8500:5023/live/cid=267
 海爷TV3,https://cn-zjwz-dx-live-03.live-play.acgvideo.com/live-bvc/603598/live_268522326_2538218_1500.m3u8             
 海爷TV1,https://cn-jsnt-dx-live-05.live-play.acgvideo.com/live-bvc/315078/live_52370715_1734265_1500.m3u8
 海爷动作,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/877642/live_199793349_7660540.m3u8
-松视1,vjms://23.237.33.155:8500:3502/live/cid=262&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=RDtfFOAvgjb5mIurJg08e
-松视2,vjms://23.237.33.155:8500:3502/live/cid=267&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=c6Qq6gGg7oG1rAP20bxBe
-松视3,vjms://23.237.33.155:8500:3502/live/cid=268&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=ADZie6PocQzvhxdjhiWRe
 
 HAPPY频道_7811,#genre#
 星颖,P2p://170.178.164.243:6210/5b448cd6000329d7000b7194c6f06352.ts
@@ -335,6 +314,7 @@ Anikkas,p5p://192.95.32.107:9906/5a653bb4000695f9d71908f1127c6ea5&link=盗链死
 梦幻頻道04,p5p://192.95.32.107:9906/59222c9c0003f2144e036ffb2b1a0fa3&link=盗链死全家
 梦幻頻道05,p5p://192.95.32.107:9906/59222c6f00022fc44e02bfbf20064484&link=盗链死全家
 梦幻頻道06,p5p://192.95.32.107:9906/59222c7d0002cc1d4e02f69777421fe1&link=盗链死全家
+
 国外频道_7811,#genre#
 HAPPY 高清,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 惊艳台 高清,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
@@ -384,7 +364,7 @@ Dorcel HD,p9p://192.95.32.107:9906/59222c4f00014cfc4e0242852b9d1f13&link=盗链�
 Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链死全家
 吃偉哥老牛啃嫩草,p9p://192.95.32.107:9906/59222d3f000d89e34e05ef2869e52765&link=盗链死全家
 
-星火体育 ■_7811,#genre#
+星火体育_7811,#genre#
 CCTV5+,www.chengbo.org/proxy/yst.m3u8?id=cctv5p#@www.chengbo.org/proxy/mg.m3u8?id=641886771#@www.chengbo.org/proxy/bst8.m3u8?id=cctv5p#@www.chengbo.org/proxy/bstjs.m3u8?id=cctv5p#@www.chengbo.org/proxy/mg.m3u8?id=641886773#@www.chengbo.org/proxy/gxiptv.m3u8?id=cctv5pjiema4#@www.chengbo.org/proxy/hnlt.m3u8?id=cctv5puseragentLavf/57.71.100jiema1
 ﻿蓝衣VS企鹅,www.chengbo.org/proxy/qie.m3u8?id=10005382jiema4#adjz#@www.chengbo.org/proxy/qie.m3u8?id=10005381jiema4
 黄蜂VS活塞,dy://qqliveHD81.php#ad#@dy2://qqliveHD81.php#@www.chengbo.org/proxy/live.m3u8?id=live1jiema4#@www.chengbo.org/proxy/tydl2.m3u8?id=642197jiema4#@www.chengbo.org/proxy/somi.m3u8?id=103544jiema4
@@ -454,7 +434,7 @@ AD2Sport,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 风云足球,www.chengbo.org/proxy/mg.m3u8?id=621984939#@www.chengbo.org/proxy/c5.m3u8?id=089jiema4#@http://124.232.231.246:6610/000000001001/201500000028/index.m3u8?IASHttpSessionId=OTT#@http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls#@www.chengbo.org/proxy/gzyx.m3u8?id=cctvfyzqjiema4#@rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtvjiema4#@www.chengbo.org/proxy/hnlt.m3u8?id=fyzquseragentLavf/57.71.100jiema4
 央视台球,www.chengbo.org/proxy/mg.m3u8?id=603842910#@www.chengbo.org/proxy/ttyx.m3u8?id=ystqjiema0#@www.chengbo.org/proxy/gzyx.m3u8?id=ystqjiema4#@www.chengbo.org/proxy/mg.m3u8?id=621984950#@http://42.48.60.248:8082/live/ystq-800k.m3u8#@www.chengbo.org/proxy/hnlt.m3u8?id=ystquseragentLavf/57.71.100jiema1
 
-星火电影 ■_7811,#genre#
+星火电影_7811,#genre#
 1116女友是主播,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/dfc510b4c79f4c8488b07da0d344c1b6/2000.m3u8
 1117追缴火药枪,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/06265a1614244c5bbe68f4d15ce0c0ac/2000.m3u8
 1118拔刺（上）,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/8846d10e554a4529abdbb5be24219de4/2000.m3u8
@@ -671,7 +651,7 @@ Big笑工坊我们是创造快乐的一群人,www.chengbo.org/proxy/huya.m3u8?id
 【迪士尼】来袭每一部你都不想错过,www.chengbo.org/proxy/huya.m3u8?id=11342428
 张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
 
-星火剧场 ■_7811,#genre#
+星火剧场_7811,#genre#
 蜡笔小新,http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8jiema0
 宫崎骏,https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8jiema0
 猫和老鼠,rtmp://tx2play1.douyucdn.cn/live/4246519rZ6Vvqy7q_4000pjiema4
@@ -1310,7 +1290,7 @@ yj~jxj,www.chengbo.org/proxy/txdj.m3u8?id=311446571
 热血尖兵咱们一起搞笑可好,www.chengbo.org/proxy/txdj.m3u8?id=416882427
 闲来无事随便玩玩哈哈,www.chengbo.org/proxy/txdj.m3u8?id=85515769
 
-星火轮播 ■_7811,#genre#
+星火轮播_7811,#genre#
 爱奇艺成龙,www.chengbo.org/proxy/qy2.m3u8?id=qiyicl#@www.chengbo.org/proxy/qy3.m3u8?id=qiyicl
 爱奇艺龙珠,www.chengbo.org/proxy/qy2.m3u8?id=qiyilz#@www.chengbo.org/proxy/qy3.m3u8?id=qiyilz
 爱奇艺巧虎,www.chengbo.org/proxy/qy2.m3u8?id=qiyiqh#@www.chengbo.org/proxy/qy3.m3u8?id=qiyiqh
@@ -1408,7 +1388,7 @@ yj~jxj,www.chengbo.org/proxy/txdj.m3u8?id=311446571
 爱奇艺王牌对王牌,www.chengbo.org/proxy/qy2.m3u8?id=qiyiwpdwp#@www.chengbo.org/proxy/qy3.m3u8?id=qiyiwpdwp
 爱奇艺巴啦啦小魔仙,www.chengbo.org/proxy/qy2.m3u8?id=qiyibllxmx#@www.chengbo.org/proxy/qy3.m3u8?id=qiyibllxmx
 
-国外成人 ■_7811,#genre#
+国外成人_7811,#genre#
 Miami TV,http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 Jasmine TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 HOT,http://live.redtraffic.xyz/blowjob.m3u8
@@ -1485,7 +1465,7 @@ Dorcel HD,p9p://192.95.32.107:9906/59222c4f00014cfc4e0242852b9d1f13&link=盗链�
 Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链死全家
 吃偉哥老牛啃嫩草,p9p://192.95.32.107:9906/59222d3f000d89e34e05ef2869e52765&link=盗链死全家
 
-司机开车 ■_7811,#genre#
+司机开车_7811,#genre#
 12月25日 Ⅰ 叶山瞳操得爽翻天啊,https://qqc1107.phpdaniu.com/japan/20191126/QoTyft88/500kb/hls/index.m3u8
 12月25日 Ⅰ 我情人水鸟文乃的话,https://qqc1107.phpdaniu.com/japan/20191126/5dZmgYGB/500kb/hls/index.m3u8
 12月23日 Ⅰ 从背后开干贴身内裤,https://qqc1107.phpdaniu.com/japan/20191126/F3xvS5CF/1000kb/hls/index.m3u8
@@ -1557,7 +1537,7 @@ Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链
 18禁 Ⅰ 色即是空【后篇】,https://qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
 18禁 Ⅰ 满清十大酷刑【赤裸凌迟】,https://qqc1107.phpdaniu.com/japan/20190829/LR1VP55H/800kb/hls/index.m3u8
 
-电音嗨曲 ■_7811,#genre#
+电音嗨曲_7811,#genre#
 混音 Ⅰ 又一次,http://www.zuori.cc/index/downloads?d=43165&v=x65ewivb
 混音 Ⅰ 说再见,http://www.zuori.cc/index/downloads?d=43165&v=TlDRyscJ
 舞曲 Ⅰ 给我希望,http://www.zuori.cc/index/downloads?d=43165&v=vQv8Jghp
@@ -1609,7 +1589,7 @@ Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链
 车展 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
 车展 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
 
-电影珍藏 ■_7811,#genre#
+电影珍藏,#genre#
 街女,http://www.zuori.cc/index/downloads?d=43165&v=lrSzC9wP
 跛豪,http://www.zuori.cc/index/downloads?d=43165&v=OmnGCtRO
 力王,http://www.zuori.cc/index/downloads?d=43165&v=t5JnVKwk
@@ -1642,7 +1622,7 @@ Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链
 月亮星星太阳,http://www.zuori.cc/index/downloads?d=43165&v=KkaDrDrk
 至尊计状元才,http://www.zuori.cc/index/downloads?d=43165&v=InG97u2A
 
-剧集珍藏 ■,#genre#
+剧集珍藏,#genre#
 01 Ⅰ 武林幸运星,http://www.zuori.cc/index/downloads?d=43165&v=VSadG5st
 02 Ⅰ 武林幸运星,http://www.zuori.cc/index/downloads?d=43165&v=r6mMOBOX
 03 Ⅰ 武林幸运星,http://www.zuori.cc/index/downloads?d=43165&v=XW57AfNO
@@ -1729,7 +1709,7 @@ Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链
 21 Ⅰ 遗失的世界【第二季】,http://www.zuori.cc/index/downloads?d=43165&v=6KiqFzOm 
 22 Ⅰ 遗失的世界【第二季】,http://www.zuori.cc/index/downloads?d=43165&v=4YEOW7uh
 
-轮播影视 ■,#genre#
+轮播影视_7811,#genre#
 办公小野,http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
 野食小哥,http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 华数美食,http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
@@ -1756,7 +1736,7 @@ Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链
 林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
 
 
-港澳台视 ■,#genre#
+港澳台视,#genre#
 凤凰中文HD[1280*720],http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯HD[1280*720],http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰中文HD[1280*720],http://117.169.120.217:8080/live/fhchinese/.m3u8
@@ -1811,7 +1791,7 @@ Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链
 中国天气[768*576],http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 翡翠台,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
 
-港澳台视 ■,#genre#
+港澳台视,#genre#
 澳视体育[1280*720][1280*720],http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 澳门卫视[768*576][768*576][720*540],http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳门澳视高清1[720*406],http://61.244.22.4/ch3/ch3.live/playelist.m3u8
@@ -1857,7 +1837,7 @@ Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=盗链
 欢喜台,http://zszb.xyz/cs.php?id=HXTHD
 欢喜台,http://50.7.161.82:8278/Huahee/playlist.m3u8?tid=6299993&ct=18201&tsum=dd2537cb669f5768e392c96d42736fdf
 
-港澳台视 ■,#genre#
+港澳台视,#genre#
 台湾亲子台[854*480],http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 台湾全美台[854*480],http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 台湾HBO电影[785*576],http://218.202.220.2:5000/nn_live.ts?id=HBO
@@ -1906,7 +1886,7 @@ MTV Taiwan,http://zszb.xyz/time_atv.php?channel=665b7310a44b79dbd8a9f31e5e8476cc
 纬来精彩,http://zszb.xyz/time_atv.php?channel=51d255141eaa32bba398eba750f0abb9
 大爱1台,http://zszb.xyz/time_atv.php?channel=866c0738c8d4bdf59ec9ae641f58b8d9
 
-时尚 ■,#genre#
+时尚,#genre#
 WFC TV[1024*576],http://wfc.bonus-tv.ru/cdn/wfcrus/index.m3u8
 WFC TV[1280*720],http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 WFC HD[1920*1080],http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
@@ -1927,7 +1907,7 @@ Shemale Tube TV 2,http://www.ast.tv/stream/2/master.m3u8
 Visit-x TV,http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w2095600845.m3u8
 Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w1855513383.m3u8
 
-音乐台 ■,#genre#
+音乐台,#genre#
 独立波音乐台IndieWave,https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 M2O TV HD,http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 Music Top (ARG)HD,http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
@@ -1935,7 +1915,7 @@ MUSICTOP HD,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 BOX 音乐,http://212.26.132.86/hls/mb_ua_2500.m3u8
 V2BEAT,https://abr.de1se01.v2beat.live/playlist.m3u8
 
-亚洲 ■,#genre#
+亚洲,#genre#
 半岛电视[640*360],http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 花花公子蒙古[720*576],http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 韩国Arirang (Opt-1)[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1976,7 +1956,7 @@ Radio Kanal HIT-R[1280*720],http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 CGTN Documentary[1024*576],https://live.cgtn.com/cctv-d.m3u8
 CGTN English[1024*576],https://live.cgtn.com/1000/prog_index.m3u8
 
-日本 ■,#genre#
+日本,#genre#
 日-家庭劇場[720*404],http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
 日-衛星劇場[720*404],http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
 日本映畫[720*404],http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
@@ -1999,7 +1979,7 @@ CGTN English[1024*576],https://live.cgtn.com/1000/prog_index.m3u8
 NHK WORLD[1280*720],https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/263942/live_stv_s.m3u8
 NHK World[1280*720],https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
 
-土耳其 ■,#genre#
+土耳其,#genre#
 土耳其Turkia TRT MüZIK HD音乐频道[640*360],http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 土耳其Cay TV[1280*720],http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 土耳其CNN Turk[1024*576],http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
@@ -2012,7 +1992,7 @@ NHK World[1280*720],https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/globa
 土耳其TRT Cocuk[640*360],http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 土耳其TRT Haber[640*360],http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 
-美洲 ■,#genre#
+美洲,#genre#
 美国芝加哥WGN9频道HD[640*360],http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 美国Bowie TV[640*360],http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 美国Buffalo TV[491*360],http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
@@ -2081,7 +2061,7 @@ AMERICAN HORRORS [288p][720*540],http://170.178.189.66:1935/live/Stream1/playlis
 RETRO TV[1280*720],http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 Free Speech TV[848*480],http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
-加拿大 ■,#genre#
+加拿大,#genre#
 加拿大CBC News (VOD)[1280*720],http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 加拿大CTV News Live 1[1280*720],http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
 加拿大CTV News Live 4[1280*720],http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
@@ -2097,7 +2077,7 @@ Free Speech TV[848*480],http://edge.free-speech-tv-live.top.comcast.net/out/u/fs
 加拿大青少年娱乐频道Fresh TV[640*360],http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
 加拿大BBC Toronto印第安频道[1280*720],http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 
-欧洲 ■,#genre#
+欧洲,#genre#
 英国MTV[320*176],http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 英国Jewellery Maker[1024*576],http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
 巴西Rede TV[480*270],http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
@@ -2114,7 +2094,7 @@ Free Speech TV[848*480],http://edge.free-speech-tv-live.top.comcast.net/out/u/fs
 比利时RTL-TVI[400*224],http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 新西兰Three[852*480],http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
-法国 ■,#genre#
+法国,#genre#
 法国France 24(英语)[1024*576],http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 法国France 24(英语)[1024*576],http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
 法国国家24频道Francophonie 24[640*360],http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
@@ -2170,7 +2150,7 @@ Free Speech TV[848*480],http://edge.free-speech-tv-live.top.comcast.net/out/u/fs
 法国Gong[853*480],http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 法国TV5 Monde Info (Opt-2)[1920*1080],http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
-德国 ■,#genre#
+德国,#genre#
 德国Baden TV[1280*720],http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 德国Deutsche Welle (Opt-2)[400*224],http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 德国Deutsche Welle (Opt-3)[400*224],http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
@@ -2190,7 +2170,7 @@ Free Speech TV[848*480],http://edge.free-speech-tv-live.top.comcast.net/out/u/fs
 德国MDF.1[1920*1080],http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 德国QVC[512*288],http://ios-stream.qvc.de/qvc.m3u8
 
-西班牙 ■,#genre#
+西班牙,#genre#
 西班牙皇家马德里电视台Real Madrid TV | SD[320*180],http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 西班牙皇家马德里电视台Real Madrid TV | SD[720*404],http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 西班牙皇家马德里电视台Real Madrid TV | SD[720*404],http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
@@ -2222,7 +2202,7 @@ Free Speech TV[848*480],http://edge.free-speech-tv-live.top.comcast.net/out/u/fs
 西班牙Extrema Tv-Movies[1280*720],http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 西班牙Ranchenato[854*480],http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
 
-意大利 ■,#genre#
+意大利,#genre#
 意大利布鲁内尔音乐台RadioBruno[720*404],http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 意大利Rai4 HD[928*522],http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 意大利RaiMovie HD电影频道[1024*576],http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -2258,7 +2238,7 @@ Free Speech TV[848*480],http://edge.free-speech-tv-live.top.comcast.net/out/u/fs
 意大利Rai Premium[1024*576],http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 意大利Video Calabria[854*480],http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
-俄罗斯 ■,#genre#
+俄罗斯,#genre#
 俄罗斯HTM HD TV[1280*720],http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
 俄罗斯HTM HD[1280*720],http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 俄罗斯Новое Радио ТВ音乐电视频道[1920*1080],http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
@@ -2306,7 +2286,7 @@ Free Speech TV[848*480],http://edge.free-speech-tv-live.top.comcast.net/out/u/fs
 俄罗斯TRO Soyuz[720*540],http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 俄罗斯Ugra TV[654*360],http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 
-国际频道 ■,#genre#
+国际频道,#genre#
 美国CBSN News[1280*720],https://www.cbsnews.com/common/video/dai_prod.m3u8
 NHK综合台[1280*720],https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 韩国WFCHD[1920*1080],http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
@@ -2368,7 +2348,7 @@ V-O-A[512*288],https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 以色列Knesset Channel[854*480],http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 黎巴嫩Al Manar[990*552],http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
-测试 ■,#genre#
+测试,#genre#
 耀才财经台[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 探索科学[1280*720],http://122.155.180.8:5021/live/457
 KTV HD[1920*1440],rtmp://218.38.152.31/klive/klive.stream
@@ -2489,7 +2469,7 @@ TVNZ[864*486],http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 皇马足球[720*404],http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 京视剧场[1047*576],http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
 
-轮番 ■,#genre#
+轮番,#genre#
 电影-成龙[1088*608],https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 电影-五福星系列[1293*720],https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
 电影-周星驰[1280*720],https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
@@ -2548,7 +2528,7 @@ Running Man轮播[1280x720][1280*720],https://aldirect.hls.huya.com/huyalive/293
 我未成年,1989https://sina.com-h-sina.com/20190125/28619_85d55921/index.m3u8
 七号差馆[1080*620],https://youku.com-l-youku.com/20190122/18748_c60c4fb2/index.m3u8
 
-电影 ■,#genre#
+电影,#genre#
 Newstv爱情喜剧[1920*1080],http://112.50.243.7/PLTV/88888888/224/3221225877/index.m3u8
 NewsTV爱情喜剧[1920*1080],http://183.207.249.15/PLTV/3/224/3221225525/index.m3u8
 NewsTV搏击[1920*1080],http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
@@ -2729,7 +2709,7 @@ IPTV相声小品[768*576],http://117.156.28.119/270000001111/1110000112/index.m3
 黄瓜影视62[1280*720],https://aldirect.hls.huya.com:443/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8
 黄瓜影视64[1280*720],http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 
-广播 ■,#genre#
+广播,#genre#
 CNR 中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
 CNR 中国交通广播,http://ls.qingting.fm/live/4985.m3u8
 CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
@@ -2778,7 +2758,7 @@ CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
 上海戏剧曲艺 AM1197,http://live.xmcdn.com/live/60/64.m3u8
 上海戏剧曲艺 AM1197,http://rs.ajmide.com/r_6/6.m3u8
 
-学院私拍秀 ■_7811,#genre#
+学院私拍秀_7811,#genre#
 《学院私拍秀01》,https://135zyv6.xw0371.com/2018/12/11/tggjHEReaUN7Uyod/playlist.m3u8
 《学院私拍秀02》,https://135zyv6.xw0371.com/2018/12/11/RPLTSvjqj9pRXpxC/playlist.m3u8
 《学院私拍秀03》,https://135zyv6.xw0371.com/2018/12/11/porIBerWez8kyfLI/playlist.m3u8
@@ -3029,7 +3009,7 @@ CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
 《学院私拍秀98》,https://135zyv6.xw0371.com/2018/12/30/aeHoLRDhPeGGMn2B/playlist.m3u8
 《学院私拍秀99》,https://135zyv6.xw0371.com/2018/12/30/jJ1Qihh5xvzlf5KJ/playlist.m3u8
 
-美女自拍秀 ■_7811,#genre#
+美女自拍秀_7811,#genre#
 《美女自拍秀1》,https://135zyv4.xw0371.com/2018/07/05/ZetFjoIdMp9W26vM/playlist.m3u8
 《美女自拍秀10》,https://135zyv4.xw0371.com/2018/07/06/PtSkqDLGI3rzLj6K/playlist.m3u8
 《美女自拍秀100》,https://135zyv4.xw0371.com/2018/07/24/Af9xbKgHGgDivAMv/playlist.m3u8
@@ -3448,7 +3428,7 @@ CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
 《美女诱惑98》,https://135zyv3.xw0371.com/20180317/tyL3612Y/index.m3u8
 《美女诱惑99》,https://135zyv3.xw0371.com/20180317/2xVVplYb/index.m3u8
 
-美女热舞写真细高跟系列 ■_7811,#genre#
+美女热舞_7811,#genre#
 《美女热舞写真细高跟系列1》,https://v2.xw0371.com/20180211/c8owLm75/index.m3u8
 《美女热舞写真细高跟系列10》,https://v2.xw0371.com/20180211/Vu2701D9/index.m3u8
 《美女热舞写真细高跟系列100》,https://v2.xw0371.com/20180220/6WkjwKaf/index.m3u8
@@ -3679,7 +3659,7 @@ CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
 《美女热舞写真细高跟系列98》,https://v2.xw0371.com/20180220/EnA0FJVH/index.m3u8
 《美女热舞写真细高跟系列99》,https://v2.xw0371.com/20180220/YbLbauvT/index.m3u8
 
-街拍美女系列 ■_7811,#genre#
+街拍美女_7811,#genre#
 《街拍美女系列01》,https://v.xw0371.com/20171214/7unl81SG/index.m3u8
 《街拍美女系列02》,https://v.xw0371.com/20171214/DpruoNFU/index.m3u8
 《街拍美女系列03》,https://v.xw0371.com/20171214/SrJmE5VE/index.m3u8
